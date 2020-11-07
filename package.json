@@ -1,0 +1,42 @@
+{
+  "name": "deno-for-beginners",
+  "version": "0.0.8",
+  "description": "Superbook: deno-for-beginners by saralatta",
+  "keywords": [
+    "superbook",
+    "bookiza"
+  ],
+  "author": "saralatta <marvindanig+sara-latta@gmail.com> (https://bubblin.io/saralatta)",
+  "license": "BOL",
+  "homepage": "https://bubblin.io/saralatta",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github/project/url/here"
+  },
+  "scripts": {
+    "postinstall": "node ./crust/scripts/ready.js"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "book-length": "^1.2.1",
+    "browser-sync": "^2.26.13",
+    "chalk": "^4.1.0",
+    "del": "^6.0.0",
+    "delayed": "^2.0.0",
+    "fs-extra": "^9.0.1",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-haml": "^0.0.8",
+    "gulp-if": "^3.0.0",
+    "gulp-less": "^4.0.1",
+    "gulp-markdown": "^5.1.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-stylus": "^2.7.0",
+    "js-cookie": "^2.2.1",
+    "path": "^0.12.7",
+    "shelljs": "^0.8.4"
+  }
+}

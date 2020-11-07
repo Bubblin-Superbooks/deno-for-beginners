@@ -1,0 +1,21 @@
+.footnote {
+  text-align: center;
+  height: 20vh;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  font-size: 3.5vw;
+}
+
+
+.pad-vertically{
+	padding-top: 10vh;
+}
+
+h1, h3 {
+  line-height: 1.4;
+}
+
+h2 {
+  font-size: 80%;
+}
